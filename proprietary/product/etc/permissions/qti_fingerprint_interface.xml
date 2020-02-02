@@ -7,7 +7,7 @@ Confidential and Proprietary - Qualcomm Technologies, Inc.
 
 <permissions>
  <library name="vendor.qti.hardware.fingerprint.V1_0.IQfpAndroidServices"
-          file="/vendor/framework/vendor.qti.hardware.fingerprint-V1.0-java.jar"/>
+          file="/product/framework/vendor.qti.hardware.fingerprint-V1.0-java.jar"/>
  <library name="vendor.qti.hardware.fingerprint.V1_0.IQtiExtendedFingerprint"
-          file="/vendor/framework/vendor.qti.hardware.fingerprint-V1.0-java.jar"/>
+          file="/product/framework/vendor.qti.hardware.fingerprint-V1.0-java.jar"/>
 </permissions>
